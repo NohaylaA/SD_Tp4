@@ -6,13 +6,13 @@ Bienvenue dans mon projet. Ce dépôt contient le code source et la documentatio
 
 Vous pouvez consulter le code du partie 1 de ce projet  en suivant le lien ci-dessous :
 
-[Consultez mon rapport ici](https://github.com/NohaylaA/Anoada_Nohayla_Tp4_1)
+[Consultez la partie 1 ici](https://github.com/NohaylaA/Anoada_Nohayla_Tp4_1)
 
 ## Partie 2
 
 Vous pouvez consulter le code du partie 2 de ce projet  en suivant le lien ci-dessous :
 
-[Consultez mon rapport ici](https://github.com/NohaylaA/Anoada_Nohayla_Tp4_2)
+[Consultez la partie 2 ici](https://github.com/NohaylaA/Anoada_Nohayla_Tp4_2)
 
 ## Rapport
 
